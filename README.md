@@ -19,9 +19,9 @@ Users connect as clients to the exchange server which allows them to create acco
 
 ## Features
 
-- [Account creation and login]
-- [Ability to buy/sell assets]
-- [Ability to view portfolio and balance]
+- Account creation and login
+- Ability to buy/sell assets
+- Ability to view portfolio and balance
 
 ---
 
